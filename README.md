@@ -10,11 +10,11 @@
 
 # Project Overview
 
-- You can log in by typing your information or by getting lost with Google. There are two login roles as user and administrator. If your role is user, you can navigate the homepage, add products to the cart or delete products from the cart. If your role is administrator, you can add new products to the site, check stock status or remove products from your e-commerce site.
+- 💥💥 You can log in by typing your information or by getting lost with Google. There are two login roles as user and administrator. If your role is user, you can navigate the homepage, add products to the cart or delete products from the cart. If your role is administrator, you can add new products to the site, check stock status or remove products from your e-commerce site.
 
 # Project Gif
 
-![]('ecommerce.gif')
+![](ecommerce.gif)
 
 # Project Setup
 
